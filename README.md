@@ -1,16 +1,25 @@
-### Hi there 👋
+## Oi, eu sou o André
 
-<!--
-**andreefl/andreefl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreefl&count_private=true&show_icons=true&theme=graywhite)
 
-Here are some ideas to get you started:
+## Tecnologias
+<div style="display: inline_block"><br/>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+  <img align="center" src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/PHP-121212?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Laravel-121212?style=for-the-badge&logo=laravel&logoColor=white" />
+</div>
+
+<div style="display: inline_block"><br/>
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+## Redes Sociais
+[![Linkedin](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-l-b3530a194/)
