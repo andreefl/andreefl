@@ -31,6 +31,12 @@ Currently developing and maintaning a web geographic information system.
   <img align="center" src="https://img.shields.io/badge/Excel-121212?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div><br/>
 
+<div style="display: inline_block">
+  <img align="center" src="https://img.shields.io/badge/OpenLayers-121212?style=for-the-badge&logo=openlayers&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/JQuery-121212?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Github-121212?style=for-the-badge&logo=github&logoColor=white" />
+</div><br/>
+
 ## Somedays technologies
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=white" />
@@ -45,4 +51,4 @@ Currently developing and maintaning a web geographic information system.
 </div><br/>
 
 ## Social
-[![Linkedin](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-l-b3530a194/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-efl/)
